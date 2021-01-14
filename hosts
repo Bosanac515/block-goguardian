@@ -1,7 +1,7 @@
 # School student management and tracker hosts
 # https://github.com/Nimityx/schoolhosts
 # License: MIT
-# Last Updated: January 14th 2021 03:52 UTC
+# Last Updated: January 14th 2021 05:14 UTC
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
 # Common trackers
@@ -92,11 +92,9 @@ stg-grpc-alpha-parent-client-gateway.goguardian.com
 support-api.goguardian.com
 support-tools.goguardian.com
 support.goguardian.com
-support.goguardian.com
 support.teacher.goguardian.com
 taskiness-preprocessor.goguardian.com
 teacher.goguardian.com
-teachersupport.goguardian.com
 teachersupport.goguardian.com
 theft-recovery.goguardian.com
 tivan.goguardian.com
