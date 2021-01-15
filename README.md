@@ -3,9 +3,12 @@ School student management and tracker hosts
 - hosts: https://raw.githubusercontent.com/Nimityx/schoolhosts/main/hosts
 - hosts (using 0.0.0.0): https://raw.githubusercontent.com/Nimityx/schoolhosts/main/0.0.0.0/hosts
 
-Usage:
+## Usage:
 - Prevent tracking
 - Bypass GoGuardian blocked websites
+
+## Applications
+- [Pi-hole](https://pi-hole.net/)
 
 ## Contributing
 1.  Fork it (https://github.com/Nimityx/schoolhosts/fork)
