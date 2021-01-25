@@ -2,6 +2,7 @@
 School student management and tracker hosts
 - hosts: https://raw.githubusercontent.com/Nimityx/schoolhosts/main/hosts
 - hosts (using 0.0.0.0): https://raw.githubusercontent.com/Nimityx/schoolhosts/main/0.0.0.0/hosts
+  - Shortened: https://is.gd/schoolhosts
 
 ## Usage:
 - Prevent tracking
