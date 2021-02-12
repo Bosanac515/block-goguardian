@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: scoolhosts (rules.txt)
+! Title: schoolhosts (rules.txt)
 ! https://github.com/Nimityx/schoolhosts
 ! Author: Nimityx | https://github.com/Nimityx
 ! 
