@@ -1,7 +1,7 @@
-! Title: Schoolhosts, Rules to block school student management and tracker hosts
+! Title: block-goguardian, Block GoGuardian on the network level
 ! Homepage: https://github.com/Nimityx/schoolhosts
 ! Author: Nimityx | https://github.com/Nimityx
-! Description: Rules to block school student management and tracker hosts
+! Description: Rules to block GoGuardian on the network level
 
 ! Rules contributed by Nimityx
 ! https://github.com/Nimityx
