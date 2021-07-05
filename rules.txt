@@ -1,5 +1,5 @@
 ! Title: block-goguardian, Block GoGuardian on the network level
-! Homepage: https://github.com/Nimityx/schoolhosts
+! Homepage: https://github.com/Nimityx/block-goguardian
 ! Author: Nimityx | https://github.com/Nimityx
 ! Description: Rules to block GoGuardian on the network level
 
